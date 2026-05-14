@@ -1,34 +1,49 @@
-# politicadeprivacidade-nostamusic
+Última atualização: 14/05/2026
 
-Última atualização: 24 de Maio de 2024
+A capybarastecapps-2 - leva a sua privacidade a sério. Esta Política de Privacidade descreve como o aplicativo NostaMusic trata as informações coletadas dos usuários.
 
-A capybarastecapps construiu o aplicativo NostaMusic como um aplicativo gratuito. Este SERVIÇO é fornecido pela capybarastecapps sem custo e destina-se ao uso como está.
-Esta página é usada para informar aos visitantes sobre nossas políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço.
+1. Coleta de Informações
+O NostaMusic foi projetado para ser um aplicativo de consulta e descoberta musical.
 
-1. Coleta e Uso de Informações
-Para uma melhor experiência ao usar nosso Serviço, não exigimos que você nos forneça nenhuma informação de identificação pessoal. O aplicativo não possui um sistema de login ou banco de dados externo para armazenar dados do usuário.
+Informações Pessoais: Nós NÃO coletamos, armazenamos ou compartilhamos qualquer informação de identificação pessoal (como nome, e-mail, número de telefone ou localização precisa).
+Dados de Preferências: O aplicativo permite que você salve "Anos Favoritos". Esses dados são armazenados localmente no seu dispositivo através do recurso de preferências compartilhadas e não são enviados para nossos servidores ou para terceiros.
 
-2. Dados de Log e Cookies
-O NostaMusic não coleta ativamente dados de log ou utiliza "cookies". No entanto, o aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
-3. Provedores de Serviços (Terceiros)
-Nosso aplicativo interage com os seguintes serviços de terceiros:
-•
-Spotify: O aplicativo fornece links que abrem o aplicativo Spotify ou sua versão web para reproduzir músicas. O Spotify possui sua própria política de privacidade sobre como lida com seus dados.
-•
-Google Play Services: Utilizado para distribuição e atualizações do aplicativo.
+2. Permissões do Android
+Para funcionar corretamente, o aplicativo solicita apenas a seguinte permissão:
 
-4. Armazenamento Local
-O aplicativo utiliza o armazenamento local do seu dispositivo (Shared Preferences) exclusivamente para salvar sua lista de "Anos Favoritos". Esses dados permanecem apenas no seu aparelho e são excluídos se você desinstalar o aplicativo.
+INTERNET: Necessária para realizar buscas através da API pública do Spotify e permitir que o usuário abra links externos para reprodução musical.
 
-5. Links para Outros Sites
-Este Serviço contém links para outros sites (como o Spotify). Se você clicar em um link de terceiro, será direcionado a esse site. Observe que esses sites externos não são operados por nós. Portanto, recomendamos vivamente que reveja a Política de Privacidade desses sites.
 
-6. Privacidade das Crianças
-Estes Serviços não se dirigem a ninguém com menos de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos.
+3. Serviços de Terceiros e Integração com Spotify
+O NostaMusic atua como uma ferramenta de busca e redirecionamento.
 
-7. Alterações nesta Política de Privacidade
-Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, é recomendável revisar esta página periodicamente para quaisquer alterações.
+Spotify Web API: Utilizamos a API oficial do Spotify para obter informações sobre sucessos musicais. Nenhum dado da sua conta Spotify é acessado por nós.
+
+Redirecionamento: Ao clicar para ouvir uma música, você será redirecionado para o aplicativo oficial do Spotify ou para a versão web do Spotify. O tratamento de dados nessas plataformas é regido pela Política de Privacidade do Spotify.
+
+
+4. Segurança de Dados
+Como não coletamos dados em servidores externos, o risco de vazamento de dados pessoais através do nosso aplicativo é inexistente. Todas as suas interações de favoritos permanecem exclusivamente no seu aparelho celular.
+
+
+5. Privacidade de Crianças
+Nosso aplicativo não coleta intencionalmente nenhuma informação de crianças. O conteúdo é destinado ao público geral interessado em história musical.
+
+
+6. Transparência na Google Play
+Em conformidade com as diretrizes da Google Play Store, declaramos que:
+
+Este aplicativo não compartilha dados de usuários com terceiros.
+
+Nenhum dado é coletado do dispositivo para fins de marketing ou publicidade.
+
+
+7. Alterações nesta Política
+Podemos atualizar nossa Política de Privacidade ocasionalmente. Recomendamos que você revise esta página periodicamente para quaisquer alterações.
+
 
 8. Contato
-Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar em: capybarastecapps@gmail.com
+Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar:
+Desenvolvedor: capybarastecapps-2
+E-mail de Suporte: djminocdj@gmail.com
